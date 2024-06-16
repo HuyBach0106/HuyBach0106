@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @HuyBach0106
-- 👀 I’m interested in AOEIV, Dota 2
 - 🌱 I’m currently learning Java and Js
-- 💞️ I’m looking to collaborate on..
 - 📫 How to reach me fb: Bach Huy Nguyen
