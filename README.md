@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @HuyBach0106
 - 🌱 I’m currently learning Java and Js
-- 📫 How to reach me fb: Bach Huy Nguyen
